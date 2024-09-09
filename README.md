@@ -1,5 +1,3 @@
-Berikut adalah versi perbaikan teks tanpa mengubah bagian permasalahan:
-
 # Tugas Pertama - Penjaminan Mutu Perangkat Lunak
 
 ## Permasalahan
